@@ -102,7 +102,7 @@ pip install -r requirements.txt
 ```
 
 
-## 📊 Running the Simulation
+## Running the Simulation
 
 ```bash
 python main.py
@@ -119,7 +119,7 @@ K-V Cache Memory Manager/
 └── README.md                 # This file
 ```
 
-## 🔗 Related Work
+## Related Work
 
 - **vLLM**: [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
 
