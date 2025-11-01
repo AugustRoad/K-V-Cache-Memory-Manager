@@ -94,8 +94,8 @@ cd K-V-Cache-Memory-Manager
 
 # Create virtual environment
 python -m venv .venv
-.venv\Scripts\activate  # On Windows
-# source .venv/bin/activate  # On Linux/Mac
+.\.venv\bin\activate  # On Windows
+# source .\.venv\bin\activate  # On Linux/Mac
 
 # Install dependencies
 pip install -r requirements.txt
